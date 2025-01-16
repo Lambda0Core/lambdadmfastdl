@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$basetexture"						"particle/fire_particle_6/fire_particle_6"
+
+	"$additive"							"1"
+
+	"$depthblend"						"1"
+	"$addoverblend"						"1"
+	"$overbrightfactor"					"2.5"
+	"$addself"							"5.0"
+
+	"$vertexcolor"						"1"
+	"$vertexalpha"						"1"
+}

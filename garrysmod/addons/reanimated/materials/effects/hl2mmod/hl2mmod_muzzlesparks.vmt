@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+	"$basetexture"						"effects/hl2mmod/hl2mmod_muzzlesparks"
+	"$glowtexture"						"effects/hl2mmod/hl2mmod_muzzlesparks"
+
+	"$additive"							"1"
+
+	"$overbrightfactor"					"5.5"
+
+	"$vertexcolor"						"1"
+	"$vertexalpha"						"1"
+}

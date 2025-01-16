@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+	"$basetexture"						"effects/hl2mmod/hl2mmod_energy_impactsparks_1"
+
+	"$additive"							"1"
+
+	"$depthblend"						"1"
+	"$depthblendscale"					"0.5"
+
+	"$vertexcolor"						"1"
+	"$vertexalpha"						"1"
+}

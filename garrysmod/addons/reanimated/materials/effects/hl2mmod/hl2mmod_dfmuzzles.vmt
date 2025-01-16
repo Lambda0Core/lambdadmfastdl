@@ -1,0 +1,11 @@
+"UnlitGeneric"
+{
+	"$basetexture"						"effects/hl2mmod/hl2mmod_dfmuzzles"
+
+	"$additive"							"1"
+
+	"$overbrightfactor"					"2.5"
+
+	"$vertexcolor"						"1"
+	"$vertexalpha"						"1"
+}

@@ -1,0 +1,11 @@
+"UnlitGeneric"
+{
+	"$basetexture"						"effects/hl2mmod/hl2mmod_randomsparks_2"
+
+	"$additive"							"1"
+
+	"$depthblend"						"0.0"
+
+	"$vertexcolor"						"1"
+	"$vertexalpha"						"1"
+}

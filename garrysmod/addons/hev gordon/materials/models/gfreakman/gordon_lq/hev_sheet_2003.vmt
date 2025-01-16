@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/gfreakman/gordon_lq/hev_sheet_2003"
+	"$halflambert" 1
+}

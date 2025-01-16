@@ -1,0 +1,20 @@
+
+"VertexLitGeneric"
+{
+    "$baseTexture" "models/kaesar/hlalyx/gordon/gordon_suit_color_tga_5cfb0602"
+     "$bumpmap" "models/kaesar/hlalyx/gordon/gordon_suit_normal_tga_c13e6249"
+
+	"$halflambert" "0"
+	
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[.5 2 8]"
+	"$PhongAlbedoTint" "1"
+	"$phongtint" "[.6 .7 .65]"
+	"$phongexponenttexture" "models/kaesar/hlalyx/gordon/phong_exp"
+	"$rimlight" "1"
+	"$rimlightexponent" "16"
+	"$rimlightboost" ".4"
+    
+}
+        

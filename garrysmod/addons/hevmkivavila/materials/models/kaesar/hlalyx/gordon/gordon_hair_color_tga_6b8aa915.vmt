@@ -1,0 +1,20 @@
+
+"VertexLitGeneric"
+{
+    "$baseTexture" "models/kaesar/hlalyx/gordon/gordon_hair_color_tga_6b8aa915"
+    
+
+     
+	 "$translucent" "1"
+	"$phong" "1"
+	"$phongboost"	"24"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models/kaesar/hlalyx/gordon/phong_exp"
+	"$phongfresnelranges"	"[0 0 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+    
+}
+        

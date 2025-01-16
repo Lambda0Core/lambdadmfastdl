@@ -1,0 +1,34 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\HEVMKIV\MKIVAlbedo"
+	"$bumpmap" "models\HEVMKIV\MKIVNormals"
+	"$color2" "[.9 .9 .9]"
+	"$nocull" "1"
+	"$ambientocclusion" "1"
+	"$AmbientOcclTexture" "models\HEVMKIV\MKIVAO"
+
+	"$surfaceprop" "metal"
+
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponenttexture" "models\HEVMKIV\MKIVMetals"
+	"$phongalbedotint" "1"
+	"$phongtint" "[.25 .25 .25]"
+	"$phongfresnelranges"	"[.5 2 8]"
+
+	"$basemapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask" "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.25 .25 .25]"
+
+	$selfillum "1"
+	$selfillummask "models\HEVMKIV\MKIVEmission"
+	$selfillumtint "[0 1 0]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "16"
+	"$rimlightboost" ".4"
+}
+
+
+

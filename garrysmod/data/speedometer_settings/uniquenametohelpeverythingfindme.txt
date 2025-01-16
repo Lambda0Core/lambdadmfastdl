@@ -1,0 +1,28 @@
+{
+	"vehicleSpeedEnabled": false,
+	"format": "units",
+	"hideUnits": false,
+	"boxHeight": 40.0,
+	"disableInVehicle": true,
+	"textAlpha": 111.0,
+	"yPos": 0.9628,
+	"textSize": 56.0,
+	"backgroundColor": {
+		"r": 0.0,
+		"b": 0.0,
+		"a": 150.0,
+		"g": 0.0
+	},
+	"backgroundAlpha": 0.0,
+	"use2DLength": false,
+	"hideSpeedText": true,
+	"textColor": {
+		"r": 255.0,
+		"b": 0.0,
+		"a": 111.0,
+		"g": 160.0
+	},
+	"enabled": true,
+	"xPos": 0.5,
+	"boxWidth": 200.0
+}

@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture"						"effects/hl2mmod/hl2mmod_smoketrail"
+
+	"$additive"							"1"
+
+	"$vertexcolor"						"1"
+	"$vertexalpha"						"1"
+}

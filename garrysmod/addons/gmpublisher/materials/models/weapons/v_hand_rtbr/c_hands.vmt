@@ -1,0 +1,22 @@
+VertexLitGeneric
+{
+	"$basetexture"				"models/weapons/v_hand_rtbr/c_hands"
+	"$bumpmap"					"models/weapons/v_hand_rtbr/c_hands_normal"
+	"$phongexponenttexture"		"models/weapons/v_hand_rtbr/exp"
+
+	"$envmap"					"env_cubemap"
+	"$envmaptint"				"[ .01 .01 .01 ]"
+	"$normalmapalphaenvmapmask"	"1"
+
+	"$phong"					"1"
+	"$phongexponent"			"5"
+	"$phongboost"				"65"
+	"$phongfresnelranges"		"[0.25 0.5 1]"
+	"$phongalbedotint" 			"1"
+	//"$phongalbedoboost" 		"48"
+
+	"$rimlight"					"1"
+	"$rimlightexponent"			"10"	
+	"$rimlightboost"			"50"
+	"$rimmask"					"1"
+}

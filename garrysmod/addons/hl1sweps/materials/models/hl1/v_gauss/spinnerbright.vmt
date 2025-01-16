@@ -1,0 +1,11 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "models/v_gauss/spinnerBRIGHT"
+	"Proxies"
+	{
+		"HL1GaussGlow"
+		{
+			"resultVar" "$color2"
+		}
+	}
+}

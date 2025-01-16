@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+	"$basetexture"						"effects/hl2mmod/hl2mmod_muzzlemix_hl2"
+
+	"$additive"							"1"
+
+	"$depthblend"						"1"
+	"$depthblendscale"					"1"
+
+	"$vertexcolor"						"1"
+	"$vertexalpha"						"1"
+}

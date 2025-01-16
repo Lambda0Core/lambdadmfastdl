@@ -1,0 +1,52 @@
+"deathmatch_unlimited"
+{
+	"base"			"sandbox"
+	"title"			"Deathmatch Unlimited"
+	"maps"			"dmu"
+	"menusystem"	"1"
+	"category"		"pvp"
+	"workshopid"	"3152378542"
+	
+	"settings"
+	{
+		1
+		{
+			"name"		"dmu_server_mode"
+			"text"		"Game Mode. If you're unsure, enter Team Deathmatch or FFA Deathmatch."
+			"help"		"No effect after server start-up."
+			"type"		"Text"
+			"default"	"Team Deathmatch"
+			"singleplayer" "1"
+		}
+
+		4
+		{
+			"name"		"dmu_server_sandbox"
+			"text"		"Sandbox Mode"
+			"help"		""
+			"type"		"CheckBox"
+			"default"	"0"
+			"singleplayer" "1"
+		}
+
+		2
+		{
+			"name"		"dmu_server_replace_weapons"
+			"text"		"Replace weapons"
+			"help"		""
+			"type"		"CheckBox"
+			"default"	"1"
+			"singleplayer" "1"
+		}
+
+		3
+   		{
+			"name"		"dmu_server_replace_items"
+			"text"		"Replace items"
+			"help"		""
+			"type"		"CheckBox"
+			"default"	"1"
+			"singleplayer" "1"
+		}
+	}
+}

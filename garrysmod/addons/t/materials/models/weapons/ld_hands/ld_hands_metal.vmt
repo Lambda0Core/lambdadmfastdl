@@ -1,0 +1,31 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models\weapons\ld_hands\ld_hands_diffuse"
+	"$bumpmap"		"models\weapons\ld_hands\ld_hands_normal"
+	"$envmap"		"env_cubemap"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmaptint" 		"[0.06 0.13 0.15]"
+	"$envmapfresnel"		"1"
+	"$viewmodelhands"		"1"
+ 
+	"$selfillum"		"1"
+	"$selfillummask"		"models\weapons\ld_hands\ld_hands_selfillum"
+
+	"$phong" 		"1"
+	"$phongexponent" 		"3"
+	"$phongboost" 		"3.25"
+	"$phongfresnelranges"	"[0.25 0.75  1.0]"
+	"$phongtint"		"[0.95 0.60 0.30]"
+
+
+//	$detail "effects/models/model_blood_red.vtf"
+	$detailscale 5
+	$detailblendfactor 0.0
+	$detailblendmode 0
+	Proxies
+	{
+		ModelDetailFx
+		{
+		}
+	}
+}

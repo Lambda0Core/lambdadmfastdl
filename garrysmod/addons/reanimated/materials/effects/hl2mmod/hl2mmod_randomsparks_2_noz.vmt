@@ -1,0 +1,9 @@
+"SpriteCard"
+{
+	"$basetexture"						"effects/hl2mmod/hl2mmod_randomsparks_2"
+
+	"$additive"							"1"
+
+	"$depthblend"						"0"
+	"$ignorez"							"1"
+}

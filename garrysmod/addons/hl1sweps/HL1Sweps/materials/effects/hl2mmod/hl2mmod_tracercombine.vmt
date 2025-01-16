@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$basetexture"						"effects/hl2mmod/hl2mmod_tracercombine"
+
+	"$translucent"						"1"
+	"$overbrightfactor"					"5"
+
+	"$depthblend"						"1"
+	"$depthblendscale"					"0.5"
+}

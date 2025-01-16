@@ -1,0 +1,16 @@
+"SpriteCard"
+{
+	"$basetexture"						"effects/hl2mmod/hl2mmod_fleks_1"
+
+	"$alphatest"						"1"
+
+	"$overbrightfactor"					".7"
+	"$alphatestreference"				"0.3"
+	"$depthblend"						"0"
+	"$blendframes"						"0"
+
+	"$vertexcolor"						"1"
+	"$vertexalpha"						"1"
+
+	"$nocull"							"1"
+}

@@ -1,0 +1,16 @@
+"SpriteCard"
+{
+	"$basetexture"						"effects/hl2mmod/hl2mmod_energy_muzzlessparkstrails"
+
+	"$additive"							"1"
+
+	"$ignorez"							"1"
+    "$overbrightfactor"					"3"
+	"$depthblend"						"0"
+
+	"$vertexcolor"						"1"
+	"$vertexalpha"						"1"
+
+	"$minsize"							".6"
+    "$maxsize"							".7"
+}

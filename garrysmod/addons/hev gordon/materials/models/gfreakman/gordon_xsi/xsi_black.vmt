@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	"$basetexture"	"tools\toolsblack"
+	"$bumpmap" "models/gfreakman\gordon_xsi\normal"
+
+	"$phong" "1"	
+//	"$lightwarptexture" "models/alyx/skin_lightwarp"
+	"$phongexponent" "5"
+	"$phongboost"	"0.25"
+	"$phongfresnelranges"	"[1 0.5 0]"
+}

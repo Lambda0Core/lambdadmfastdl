@@ -1,0 +1,11 @@
+"UnlitGeneric"
+{
+    "$basetexture"						"effects/hl2mmod/hl2mmod_ae2impactsparks_1"
+
+    "$additive"							"1"
+
+	"$overbrightfactor"					"5"
+
+	"$vertexcolor"						"1"
+	"$vertexalpha"						"1"
+}

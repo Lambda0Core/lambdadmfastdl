@@ -1,0 +1,10 @@
+"SpriteCard"
+{
+	"$basetexture"						"effects/hl2mmod/hl2mmod_hl2fire_2"
+
+	"$additive"							"1"
+
+	"$depthblend"						"0.0"
+	"$blendframes"						"1"
+	"$overbrightfactor"					"8"
+}
